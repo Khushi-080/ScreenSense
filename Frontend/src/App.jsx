@@ -67,7 +67,7 @@ import AuthPage from "./pages/AuthPage";
 import Index from "./pages/Index";
 import Timer from "./pages/Timer";
 import History from "./pages/History";
-import Stats from "./pages/stats";
+import Stats from "./pages/Stats";
 import Streaks from "./pages/Streaks";
 
 function App() {
