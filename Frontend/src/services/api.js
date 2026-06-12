@@ -49,7 +49,7 @@
 
 
 // src/services/api.js
-const API_URL = "http://localhost:5000/api"; // Adjust based on your backend
+const API_URL = "https://screensense-es4c.onrender.com"; // Adjust based on your backend
 
 export const saveUsage = async (data) => {
   const response = await fetch(`${API_URL}/usage`, {
